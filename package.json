@@ -1,0 +1,30 @@
+{
+  "name": "nextjs-mui-webapp",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@mui/icons-material": "^5.14.7",
+    "@mui/joy": "^5.0.0-beta.4",
+    "@mui/lab": "^5.0.0-alpha.142",
+    "@mui/material": "^5.14.7",
+    "@mui/x-date-pickers": "^6.12.1",
+    "dayjs": "^1.11.9",
+    "eslint": "8.48.0",
+    "eslint-config-next": "13.4.19",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.4",
+    "next": "13.4.19",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-icons": "^4.10.1",
+    "uniqid": "^5.4.0"
+  }
+}
